@@ -1,5 +1,5 @@
 <?php 
-/** 
+/** Andrey Shtarev
 * The function makes the content of a certain length $long - is the length of the content
 */
 echo loremipsum(3000);
